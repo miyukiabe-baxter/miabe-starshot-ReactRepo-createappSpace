@@ -5,6 +5,28 @@
   "routes": [
     {
       "route": "/nothingSelected"
+    },
+    {
+      "route": "allMethodSelected",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "rewrite": "/123",
+      "redirect": "/write",
+      "statusCode": 200,
+      "allowedRoles": [
+        "admin",
+        "user",
+        "test"
+      ]
     }
   ]
 }
