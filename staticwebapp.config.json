@@ -27,6 +27,15 @@
         "user",
         "test"
       ]
+    },
+    {
+      "route": "/acoupleMethod",
+      "methods": [
+        "get",
+        "post",
+        "connect",
+        "options"
+      ]
     }
   ]
 }
