@@ -29,7 +29,7 @@
       ]
     },
     {
-      "route": "/acoupleMethod",
+      "route": "/acoupleMethods",
       "methods": [
         "get",
         "post",
