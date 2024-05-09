@@ -7,6 +7,15 @@
       "route": "/nothingSelected"
     },
     {
+      "route": "/1"
+    },
+    {
+      "route": "/2"
+    },
+    {
+      "route": "/3"
+    },
+    {
       "route": "allMethodSelected",
       "methods": [
         "get",
@@ -30,6 +39,15 @@
     },
     {
       "route": "/acoupleMethods",
+      "methods": [
+        "get",
+        "post",
+        "connect",
+        "options"
+      ]
+    },
+    {
+      "route": "/acoupleMethods-2",
       "methods": [
         "get",
         "post",
