@@ -7,15 +7,6 @@
       "route": "/nothingSelected"
     },
     {
-      "route": "/1"
-    },
-    {
-      "route": "/2"
-    },
-    {
-      "route": "/3"
-    },
-    {
       "route": "allMethodSelected",
       "methods": [
         "get",
