@@ -29,15 +29,6 @@
       ]
     },
     {
-      "route": "/acoupleMethods",
-      "methods": [
-        "get",
-        "post",
-        "connect",
-        "options"
-      ]
-    },
-    {
       "route": "/acoupleMethods-2",
       "methods": [
         "get",
